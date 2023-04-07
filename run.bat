@@ -1,0 +1,1 @@
+cd C:\Users\PenedgeELC\Documents\nextprojects\Apokton && npm run dev
