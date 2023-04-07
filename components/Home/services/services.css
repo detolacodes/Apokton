@@ -1,0 +1,39 @@
+.service-text{
+  font-size:4rem;
+  font-weight: bolder;
+}
+.sp-2{
+  font-size:4rem;
+  color:#3064f4;
+}
+
+.servicesimg img{
+  width:400px;
+}
+
+.icon-bg{
+  background-color:#3064f4;
+  /*opacity:0.3;*/
+  color:#fff;
+}
+
+.desc{
+  font-weight:bold;
+  font-size:1.75rem;
+}
+
+.min-desc{
+  font-size:1.145rem;
+}
+
+@media screen and (max-width:991px){
+  .cards > div{
+    margin-top:20px;
+  }
+}
+
+@media screen and (max-width: 576px){
+  .servicesimg img{
+    width:300px;
+  }
+}

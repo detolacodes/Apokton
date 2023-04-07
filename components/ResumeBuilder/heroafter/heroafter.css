@@ -1,0 +1,19 @@
+.section_subtitle{
+	font-size:7rem;
+  	font-weight:bolder;
+	color:#01d293;
+	font-weight: 400;
+	position: relative;
+	margin-left: 40px;
+}
+
+.section_subtitle::before{
+	content: '';
+	position: absolute;
+	top:100%;
+	left: 40%;
+	width: 300px;
+	height: 100px;
+	background:#000;
+	color:#000;
+}
