@@ -44,7 +44,7 @@ const Navbar = () =>{
 			<div className='navbar' ref={headerRef}>
 
 				<div className='logo'>
-					<img src='/images/apk-crd-logo.png' width='150px' />
+					<img src='/images/apk-crd-logo.PNG' width='150px' />
 				</div>
 
 				<div className='flex-4 flex-h-new9 links sm-none'>
@@ -96,7 +96,7 @@ const Navbar = () =>{
 
 				<div className='flex-h-new6 px-3 py-4'>
 					<div>
-						<img src='/images/apk-crdbg-logo.png' width='120px' onClick={closeMenu} />
+						<img src='/images/apk-crdbg-logo.PNG' width='120px' onClick={closeMenu} />
 					</div>
 
 					<div>
