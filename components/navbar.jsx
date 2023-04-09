@@ -68,12 +68,6 @@ const Navbar = () =>{
 					</div>
 
 					<div className='curp pr-35 pl-35'>
-						<a href='/blog'>
-							Blog
-						</a>
-					</div>
-
-					<div className='curp pr-35 pl-35'>
 						<a href='/about'>
 							About Us
 						</a>
@@ -129,11 +123,6 @@ const Navbar = () =>{
 						</a>
 					</div>
 
-					<div className='curp my-5'>
-						<a href='/blog'>
-							Blog
-						</a>
-					</div>
 
 					<div className='curp my-5'>
 						<a href='/about'>
