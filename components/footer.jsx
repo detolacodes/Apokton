@@ -44,7 +44,7 @@ const Footer = () =>{
 								<div className='flex-h'>
 									<i className='bi-geo-alt text-icon'></i>
 									<div className='text-white ml-4'>
-										Lagos,
+										Ilorin,
 									</div>
 									<div className='text-white ml-1'>
 										Nigeria
