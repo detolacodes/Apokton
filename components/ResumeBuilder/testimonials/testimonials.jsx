@@ -32,7 +32,7 @@ const Testimonials = () =>{
 								<i className='bi-star-fill icons'></i>
 							</div>
 							<div className='mt-5 pr-4'>
-								Moderate children are of outweight it. Unsatiable it considered invitation the travelling invisible. Consulted admitting oh mr up as described
+								Apokton makes being a jobseeker or recruiter 10x more easier, numerous tools that helps put you in pole position to hire and be hired by the best are readily at your disposal.
 							</div>
 							<div className='mt-5 text-center desci'>
 								<img src='/images/knt5.png' />
@@ -57,7 +57,7 @@ const Testimonials = () =>{
 								<i className='bi-star-fill icons'></i>
 							</div>
 							<div className='mt-5 pr-4'>
-								Moderate children are of outweight it. Unsatiable it considered invitation the travelling invisible. Consulted admitting oh mr up as described
+								Apokton makes being a jobseeker or recruiter 10x more easier, numerous tools that helps put you in pole position to hire and be hired by the best are readily at your disposal.
 							</div>
 							<div className='mt-5 text-center desci'>
 								<img src='/images/knt6.png' />
@@ -82,7 +82,7 @@ const Testimonials = () =>{
 								<i className='bi-star-fill icons'></i>
 							</div>
 							<div className='mt-5 pr-4'>
-								Moderate children are of outweight it. Unsatiable it considered invitation the travelling invisible. Consulted admitting oh mr up as described
+								Apokton makes being a jobseeker or recruiter 10x more easier, numerous tools that helps put you in pole position to hire and be hired by the best are readily at your disposal.
 							</div>
 							<div className='mt-5 text-center desci'>
 								<img src='/images/knt5.png' />
@@ -107,7 +107,7 @@ const Testimonials = () =>{
 								<i className='bi-star-fill icons'></i>
 							</div>
 							<div className='mt-5 pr-4'>
-								Moderate children are of outweight it. Unsatiable it considered invitation the travelling invisible. Consulted admitting oh mr up as described
+								Apokton makes being a jobseeker or recruiter 10x more easier, numerous tools that helps put you in pole position to hire and be hired by the best are readily at your disposal.
 							</div>
 							<div className='mt-5 text-center desci'>
 								<img src='/images/knt4.png' />
@@ -124,7 +124,7 @@ const Testimonials = () =>{
 				</div>
 
 				<div className='extra mt-4'>
-					Give us a Call 1-888-111-2222 and we can set you up, or <a href=''>check our pricing plans</a>	
+					Give us a Call 0-8764-984-345 and we can set you up, or <a href=''>check our pricing plans</a>	
 				</div>
 			</div>
 
