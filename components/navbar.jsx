@@ -1,32 +1,7 @@
 import React, {useState, useEffect, useRef} from 'react'
 import styles from '../styles/Navbar.module.css'
 
-const NAV_LINK = [
-	
-	{
-		
-		id: '01',
-		path:'/',
-		display: 'Home'
-	},
-	{
-		
-		id: '02',
-		path:'/internships',
-		display:'Internships'
-	},
-	{
-		id: '03',
-		path:'/resumebuilder',
-		display:'Resume Builder'
-	},
-	{
-		id: '04',
-		path:'/about',
-		display:'About Us'
-	},	
 
-]
 
 
 const Navbar = () =>{
@@ -73,14 +48,36 @@ const Navbar = () =>{
 				</div>
 
 				<div className='flex-4 flex-h-new9 links sm-none'>
-					{
-						NAV_LINK.map((item,index)=>(
 
-							<div className=''>
-								<a href={item.path} key={index} className='pr-25 pl-25'>{item.display}</a>
-							</div>
-						))
-					}
+					<div className='curp pr-35 pl-35'>
+						<a href='/'>
+							Home
+						</a>
+					</div>
+
+					<div className='curp pr-35 pl-35'>
+						<a href='/internships'>
+							Internships
+						</a>
+					</div>
+
+					<div className='curp pr-35 pl-35'>
+						<a href='/resumebuilder'>
+							Resume Builder
+						</a>
+					</div>
+
+					<div className='curp pr-35 pl-35'>
+						<a href='/blog'>
+							Blog
+						</a>
+					</div>
+
+					<div className='curp pr-35 pl-35'>
+						<a href='/about'>
+							About Us
+						</a>
+					</div>
 				</div>
 
 				<div className='flex-h-new1 buttons sm-none'>
@@ -114,20 +111,41 @@ const Navbar = () =>{
 				</div>
 
 				<div className='py-4 px-3'>
-					{
-						NAV_LINK.map((item,index)=>(
+					<div className='curp my-5'>
+						<a href='/'>
+							Home
+						</a>
+					</div>
 
-							<div className='my-5'>
-								<a href={item.path} key={index} className=''>{item.display}</a>
-							</div>
-						))
-					}
+					<div className='curp my-5'>
+						<a href='/internships'>
+							Internships
+						</a>
+					</div>
+
+					<div className='curp my-5'>
+						<a href='/resumebuilder'>
+							Resume Builder
+						</a>
+					</div>
+
+					<div className='curp my-5'>
+						<a href='/blog'>
+							Blog
+						</a>
+					</div>
+
+					<div className='curp my-5'>
+						<a href='/about'>
+							About Us
+						</a>
+					</div>
 				</div>
 
 				<div className='flex-h-new1'>
 					<button className='mobbtn ml-3 rounded text-white'>
 						<a href=''>
-							Log in
+							Sign Up
 						</a>
 					</button>
 				</div>
