@@ -25,7 +25,7 @@ const Footer = () =>{
 									<i className='bi-telephone text-icon'></i>
 								</div>
 								<div className='ml-4 py-3 text-white'>
-									03302438	
+									0-8764-984-345	
 								</div>
 							</div>
 
