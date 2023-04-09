@@ -71,7 +71,7 @@ const Preview = () =>{
 									Resume Examples
 								</div>
 								<div className='small-text text-center'>
-									Follow useful fro experts
+									Follow useful tips from experts
 								</div>
 							</div>
 						</div>
