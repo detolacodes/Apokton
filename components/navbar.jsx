@@ -4,22 +4,24 @@ import styles from '../styles/Navbar.module.css'
 const NAV_LINK = [
 	
 	{
+		
+		id: '01',
 		path:'/',
 		display: 'Home'
 	},
 	{
+		
+		id: '02',
 		path:'/internships',
 		display:'Internships'
 	},
 	{
+		id: '03',
 		path:'/resumebuilder',
 		display:'Resume Builder'
 	},
-	// {
-	// 	path:'/blog',
-	// 	display:'Blog'
-	// },
 	{
+		id: '04',
 		path:'/about',
 		display:'About Us'
 	},	
