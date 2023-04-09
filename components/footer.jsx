@@ -16,7 +16,7 @@ const Footer = () =>{
 				<div className='row footer justify-content-center'>
 					<div className='col-lg-3 flex-h-new6 footer-1'>
 						<div>
-							<img src='/images/apk-crdbg-logo.png' width='160px' />
+							<img src='/images/apk-crdbg-logo.PNG' width='160px' />
 						</div>
 
 						<div className='footer-1-icons flex-v1 mt-5'>
