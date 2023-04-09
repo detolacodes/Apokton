@@ -29,10 +29,10 @@ const About = () =>{
 
 					<div className='col-lg-6 abt-text'>
 						<div>
-							A brief introduction to Konectin
+							A brief introduction to Apokton
 						</div>
 						<div className='mt-40'>
-							At Konectin, we aim to a friendly and transparent relationship between employers and employees
+							At Apokton, we aim to a friendly and transparent relationship between employers and employees
 							<p>
 								We guide jobseekers on getting started in their careers at all levels, provide opportunities from internships to job openings, career talks, articles and blog posts.
 							</p>
