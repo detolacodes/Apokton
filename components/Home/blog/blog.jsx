@@ -12,7 +12,7 @@ const Blog = () =>{
 				<div className='row justify-content-center text-center'>
 					<div className='col-lg-12'>
 						<div className='blog-text'>
-							<span className='sp-4'>Konectin</span> Blog
+							<span className='sp-4'>Apokton</span> Blog
 						</div>
 						<div>
 							Career talks, tips and advice, articles around the employemnt world and so much more.
