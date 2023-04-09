@@ -47,7 +47,7 @@ const Services = () =>{
 								Hire qualified candidates...
 							</div>	
 							<div className='min-desca my-3'>
-								At Konectin we match recruiters with the best of talents out there on all levels of career, internships, entry level, mid level and senior level. Our jobseekers are verified and proven to be effective.
+								At Apokton we match recruiters with the best of talents out there on all levels of career, internships, entry level, mid level and senior level. Our jobseekers are verified and proven to be effective.
 							</div>	
 						</div>
 
@@ -72,7 +72,7 @@ const Services = () =>{
 								Connect directly with recruiters...
 							</div>	
 							<div className='min-desca my-3'>
-								At Konectin we make the communication between you and your potential employer as transparent as possible. You are also updated on the status on the status of your applications regularly. 
+								At Apokton we make the communication between you and your potential employer as transparent as possible. You are also updated on the status on the status of your applications regularly. 
 							</div>	
 						</div>
 
