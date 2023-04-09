@@ -133,7 +133,7 @@ const Navbar = () =>{
 
 				<div className='flex-h-new1'>
 					<button className='mobbtn ml-3 rounded text-white'>
-						<a href=''>
+						<a href='/signup'>
 							Sign Up
 						</a>
 					</button>
